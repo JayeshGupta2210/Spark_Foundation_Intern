@@ -1,4 +1,4 @@
-# Spark_Foundation_Intern
+# The_Sparks_Foundation_Internship
 I have Completed three tasks given By The Sparks Foundation.
 The Sparks Foundation: 
 Task 1:- Prediction using Supervised Machine Learning.
